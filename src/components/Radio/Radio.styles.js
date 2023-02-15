@@ -15,6 +15,7 @@ export const SelectItem = styled.div`
   flex-basis: 50%;
   text-align: center;
   height: 100%;
+  cursor: pointer;
 
   svg {
     &:hover,
